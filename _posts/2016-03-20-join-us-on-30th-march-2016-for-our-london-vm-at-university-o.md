@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Join us on 30th March 2016 for our London VM at University of Greenwich to explore what drives us to live a fulfilled life:'
-datePublished: '2016-03-20T16:19:32.040Z'
-dateModified: '2016-03-20T16:17:59.168Z'
+datePublished: '2016-03-20T16:22:03.199Z'
+dateModified: '2016-03-20T16:19:40.554Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-20-join-us-on-30th-march-2016-for-our-london-vm-at-university-o.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-join-us-on-30th-march-2016-for-our-london-vm-at-university-o.md
-published: true
 url: join-us-on-30th-march-2016-for-our-london-vm-at-university-o/index.html
 _type: Article
 
