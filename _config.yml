@@ -1,7 +1,7 @@
 name: vm
 favicon: null
-layout_spectrum: 0.45132609200663865
-typography_spectrum: 0.48927827179431915
+layout_spectrum: 0.01267
+typography_spectrum: 0.26267
 cta:
   domain: null
   bucket: null
