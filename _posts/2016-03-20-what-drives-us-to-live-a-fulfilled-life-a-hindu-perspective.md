@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.eventbrite.com'
-  name: Eventbrite
-  favicon: 'https://cdn.evbstatic.com/s3-build/perm_001/e39cdf/django/images/icons/favicons/favicon.ico'
-  domain: www.eventbrite.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.eventbrite.com/e/what-drives-us-to-live-a-fulfilled-life-a-hindu-perspective-tickets-23275388313'
+inLanguage: en
+starred: true
 keywords:
   - eventbrite
   - events
@@ -18,7 +17,10 @@ keywords:
   - bst
   - london
 description: "What is Dharma? What is the history of dharma, How can dharma be applied in the 21st century? What's the means to live a fulfilled life? Join us on 30th March 2016 for our London VM at University of Greenwich to explore what drives us to live a fulfilled life."
-inLanguage: en
+datePublished: '2016-04-28T21:01:10.683Z'
+dateModified: '2016-03-20T19:31:40.495Z'
+author: []
+related: []
 app_links:
   - url: 'com-eventbrite-attendee://event/23275388313/?referrer=eiosurlxfbk'
     type: ios
@@ -48,15 +50,15 @@ app_links:
     package: com.eventbrite.attendee
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.eventbrite.com/e/what-drives-us-to-live-a-fulfilled-life-a-hindu-perspective-tickets-23275388313'
 title: What drives us to live a fulfilled life? A Hindu Perspective
-datePublished: '2016-03-20T18:26:15.263Z'
-dateModified: '2016-03-20T18:25:31.766Z'
 sourcePath: _posts/2016-03-20-what-drives-us-to-live-a-fulfilled-life-a-hindu-perspective.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Eventbrite
+  domain: www.eventbrite.com
+  url: 'https://www.eventbrite.com'
+  favicon: 'https://cdn.evbstatic.com/s3-build/perm_001/e39cdf/django/images/icons/favicons/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
