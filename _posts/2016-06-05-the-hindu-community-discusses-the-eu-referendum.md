@@ -9,8 +9,8 @@ description: >-
   Lord Paddy Ashdown and Anuja Prashar from Stronger in Europe and a host of
   other speakers from Brexit and the Hindu perspective address the following
   question:
-datePublished: '2016-06-05T13:31:31.887Z'
-dateModified: '2016-06-05T13:30:25.783Z'
+datePublished: '2016-06-05T13:33:37.925Z'
+dateModified: '2016-06-05T13:31:40.409Z'
 title: The Hindu Community Discusses the EU Referendum
 author:
   - name: ''
